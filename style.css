@@ -16,3 +16,7 @@ color: white;
 font-family: "Great Vibes", cursive;
 text-align: center;
  }
+ #dias_restantes{
+    color: rgb(153, 8, 8);
+    font-size: 50px;
+ }
